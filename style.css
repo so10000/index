@@ -1,0 +1,64 @@
+.bg {
+    width: 960px;
+    height: 534px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    pointer-events: none;
+}
+#bt1 {
+    width: 80px;
+    position: absolute;
+    left: 60px;
+    top: 390px;
+    transition: left 0.5s ease, top 0.5s ease;
+}
+#bt2 {
+    width: 80px;
+    position: absolute;
+    left: 420px;
+    top: 350px;
+    transition: left 0.5s ease, top 0.5s ease;
+}
+#bt3 {
+    width: 80px;
+    position: absolute;
+    left: 800px;
+    top: 390px;
+    transition: left 0.5s ease, top 0.5s ease;
+}
+#foo1 {
+    width: 30px;
+    position: absolute;
+    left: 400px;
+    top: 240px;
+    transition: left 0.5s ease, top 0.5s ease;
+}
+#foo2 {
+    width: 30px;
+    position: absolute;
+    left: 450px;
+    top: 240px;
+    transition: left 0.5s ease, top 0.5s ease;
+}
+#foo3 {
+    width: 30px;
+    position: absolute;
+    left: 500px;
+    top: 240px;
+    transition: left 0.5s ease, top 0.5s ease;
+}
+#foo4 {
+    width: 30px;
+    position: absolute;
+    left: 550px;
+    top: 240px;
+    transition: left 0.5s ease, top 0.5s ease;
+}
+#foo5 {
+    width: 30px;
+    position: absolute;
+    left: 600px;
+    top: 240px;
+    transition: left 0.5s ease, top 0.5s ease;
+}
